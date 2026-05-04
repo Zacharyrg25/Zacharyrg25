@@ -1,4 +1,5 @@
-# Hi there, I'm Zachary 👋
+# Hi there, I'm Zachary 
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 I'm a developer who enjoys building clean, functional projects — from retro-styled browser games to computer vision web apps.
 
