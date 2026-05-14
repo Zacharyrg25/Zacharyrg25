@@ -11,5 +11,5 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
 ### Projects
-[![](https://img.shields.io/badge/-🎮%20Wordle%2098-000)](https://github.com/zacharyrg25/wordle-98)
 [![](https://img.shields.io/badge/-🤖%20Face%20Recognition%20Website-000)](https://github.com/zacharyrg25/face-recognition-website)
+[![](https://img.shields.io/badge/-🎮%20Wordle%2098-000)](https://github.com/zacharyrg25/wordle-98)
